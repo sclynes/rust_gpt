@@ -1,0 +1,8 @@
+/target
+/gen
+/src/gen
+
+/src/tts.txt
+api_key.conf
+messages.txt
+.vscode/settings.json
