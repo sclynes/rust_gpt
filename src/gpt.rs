@@ -24,8 +24,8 @@ impl Gpt {
     pub fn default() -> Self {
         Gpt {
         system_prompt: String::from("
-            You are a very dark storyteller with the story taking place in a post apocalyptic city overrun by zombies and robots,
-            Car make and models don't have to be real")
+            You are a D&G storyteller with the story taking place in a post apocalyptic city overrun by zombies and robots,
+            Car make and models don't have to be real world")
         }
     }
 
